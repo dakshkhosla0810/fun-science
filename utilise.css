@@ -1,0 +1,42 @@
+.btn{
+    padding: 5px 10px;
+    color: white;
+    background: #fbfcfd;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 7px;
+    cursor: pointer; 
+}
+.login{
+padding: 6px 18px;
+color: white;
+background: #ffffff;
+border: 2px solid rgb(14, 13, 13);
+border-radius: 6px;
+cursor: pointer;
+margin: 0 12px 0 40px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.homepage-grid-container{
+    max-width: 950px;
+    margin: 8px auto;
+    padding: 0 15px;
+}
+.grid-title {
+    font-size: 38px;
+    color: rgb(0, 0, 0);
+    background-color: #fff5f5; 
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.568);
+    /* background-image: url(../css/images/vir.jpg); */
+    text-align: center;
+    text-transform: capitalize;
+    padding: 47px 20px;
+    font-family: "Fredoka One", Arial, Helvetica, sans-serif;
+    margin: 0;
+    border-radius: 10px;
+    position: relative;
+    margin-top: 45px;
+}

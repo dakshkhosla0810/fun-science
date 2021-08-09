@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&family=Style+Script&display=swap');
+
+.video{
+    width: 36%;
+    margin: 36px 0 0 0 ;
+    display: contents;
+}
+.graph p{
+    /* width: 745px; */
+    text-align: center;
+    margin: 13px 47px 2px 49px;
+    background-color: rgb(12, 33, 61);
+    color: white;
+    border-width: 3px;
+    padding: 7px 0 7px 0;
+}
+/* article h1{
+    background-color: rgb(253, 254, 255);
+    margin: 97px 0 0 332px;
+} */
+.welcome h1{
+margin: 20px 55px 23px 51px;
+background-color: rgb(12, 33, 61);
+color: white;
+}
+.paragraph p{
+     margin: 15px 0px 26px 0;
+     color: rgb(0, 0, 0);
+}
+.heading h1{
+    margin: 0 0 0 0;
+}
+header img#logoimg {
+    width: 100%;
+ }
+ 
+ header {
+    background: linear-gradient(to bottom, black 70%, rgb(34, 12, 131));
+    border-bottom: 1px solid rgb(0, 0, 0);
+    color: white;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.897);
+    border-radius: 40px;
+    margin-left: -71px;
+    margin-right: -68px;
+ }
+ header img{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    background: transparent;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;  
+ }
+ .video2{
+    width: 36%;
+    margin: 36px 0 0 0 ;
+    display: contents;
+ }
+ .video3{
+    width: 36%;
+    margin: 36px 0 0 0 ;
+    display: contents;
+ }
+ .video4{
+    width: 36%;
+    margin: 36px 0 0 0 ;
+    display: contents;
+ }
+ .background h1{
+     background-color: rgb(255, 255, 255);
+     border-radius: 5px;
+     margin:6px 157px 13px 0px;
+    font-family:  'Palette Mosaic', cursive;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.897);
+ }
+ 
+ .background h4{
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    margin: 5px 909px 13px 0px;
+    font-family: inherit;
+    color: rgb(8, 7, 7);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.897);
+ }
+ .pdf{
+     background-color: rgb(255, 255, 255);
+     text-align: center;
+     margin: 0px 253px 89px 245px;
+     border-radius: 3px;
+     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.897);
+ }
+ table, td, th {
+    border: 2px solid #ddd;
+    padding: 8px;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: rgb(0, 0, 0);
+    margin: -45px 0px 29px 421px;
+}
+.last{
+    color: rgb(0, 0, 0);
+}
+.last h1{
+    color: rgb(20, 149, 182);
+}
+.last h3{
+    color: tomato;
+}
+ marquee{
+    background-color: #0a4066;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:8px 214px 0px 211px;;
+    padding: 0 0 0 0;
+ }
+ 
+ 
